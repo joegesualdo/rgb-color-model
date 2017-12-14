@@ -2,9 +2,10 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                rgb-color-model
-version:             0.1.0.0
--- synopsis:            
+version:             0.2.0.0
+synopsis:            Haskell types for working with RGB colors
 -- description:         
+homepage:            https://github.com/joegesualdo/rgb-color-model
 license:             MIT
 license-file:        LICENSE
 author:              Joe Gesualdo

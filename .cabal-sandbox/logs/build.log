@@ -1,0 +1,10 @@
+
+package: rgb-color-model-0.1.0.0
+os: osx
+arch: x86_64
+compiler: ghc-8.2.1
+client: cabal-install-2.0.0.0
+dependencies: base-4.10.0.0
+install-outcome: InstallOk
+docs-outcome: Ok
+tests-outcome: NotTried

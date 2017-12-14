@@ -1,0 +1,29 @@
+cabal: Entering directory '.'
+Configuring rgb-color-model-0.1.0.0...
+Preprocessing library for rgb-color-model-0.1.0.0..
+Building library for rgb-color-model-0.1.0.0..
+[1 of 1] Compiling RGBColorModel    ( src/RGBColorModel.hs, dist/dist-sandbox-26540890/build/RGBColorModel.o )
+[1 of 1] Compiling RGBColorModel    ( src/RGBColorModel.hs, dist/dist-sandbox-26540890/build/RGBColorModel.p_o )
+Preprocessing library for rgb-color-model-0.1.0.0..
+Running Haddock on library for rgb-color-model-0.1.0.0..
+Haddock coverage:
+   0% (  0 / 14) in 'RGBColorModel'
+  Missing documentation for:
+    Module header
+    ColorIntensity (src/RGBColorModel.hs:5)
+    Component (src/RGBColorModel.hs:7)
+    RGBColorIntensity (src/RGBColorModel.hs:12)
+    RGBColor (src/RGBColorModel.hs:14)
+    Error (src/RGBColorModel.hs:18)
+     (src/RGBColorModel.hs:28)
+     (src/RGBColorModel.hs:31)
+     (src/RGBColorModel.hs:36)
+     (src/RGBColorModel.hs:42)
+    mkColorIntensity (src/RGBColorModel.hs:52)
+    mkRGBColor (src/RGBColorModel.hs:56)
+    mkRGBColor' (src/RGBColorModel.hs:66)
+    in256Range (src/RGBColorModel.hs:95)
+Documentation created:
+dist/dist-sandbox-26540890/doc/html/rgb-color-model/index.html
+Installing library in /Users/jgesualdo/code/haskell/rgb-color-model/.cabal-sandbox/lib/x86_64-osx-ghc-8.2.1/rgb-color-model-0.1.0.0-2olTCxd9gMJA44RAeydlIg
+cabal: Leaving directory '.'
